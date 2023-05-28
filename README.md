@@ -11,4 +11,8 @@ Join the fight in "Timesheet Invaders," an existential parody that proves timesh
 
 Note : This Game is only for DESKTOP 🖥️ 
 
-You can play this game here : https://shivam-042007.github.io/timesheetinvader/
+#You can play this game here : https://shivam-042007.github.io/timesheetinvader/
+
+#Controls of this Game : 
+
+Spacebar to shoot, left & right arrows to move, 'M' to mute.
