@@ -15,4 +15,6 @@ Note : This Game is only for DESKTOP 🖥️
 
 # Controls of this Game : 
 
-Spacebar to shoot, left & right arrows to move, 'M' to mute. 
+Spacebar to shoot
+Left & Right arrows to move
+'M' to mute. 
